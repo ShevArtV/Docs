@@ -12,7 +12,13 @@ items: [
   { text: 'Работа с формами', link: 'forms' },
   { text: 'Работа с контактами', link: 'contacts' },
   { text: 'Работа с изображениями', link: 'images' },
+  { text: 'Лексиконы и мультиязычность', link: 'lexicons' },
+  { text: 'Статические секции', link: 'static-sections' },
+  { text: 'Копирование секций', link: 'copy-sections' },
+  { text: 'Аудит правок и трекаемые поля', link: 'audit' },
   { text: 'Создание и обновление элементов', link: 'elements' },
+  { text: 'Консольные команды (CLI)', link: 'cli' },
+  { text: 'Справочник системных настроек', link: 'settings' },
   { text: 'Разная информация по регионам', link: 'regions' },
 ]
 ---
