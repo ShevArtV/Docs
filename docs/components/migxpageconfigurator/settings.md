@@ -12,7 +12,7 @@
 
 ## Изображения и lazy-load
 
-<!-- mpc_lazyload_attr, mpc_thumb_format — см. раздел «Работа с изображениями» -->
+<!-- mpc_lazyload_attr, mpc_thumb_format — см. раздел «Работа с медиа» -->
 
 ## Статические блоки и типы страниц
 
