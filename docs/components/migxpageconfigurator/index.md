@@ -17,6 +17,7 @@ items: [
   { text: 'Копирование секций', link: 'copy-sections' },
   { text: 'Аудит правок и трекаемые поля', link: 'audit' },
   { text: 'Создание и обновление элементов', link: 'elements' },
+  { text: 'Системные события', link: 'events' },
   { text: 'Консольные команды (CLI)', link: 'cli' },
   { text: 'Справочник системных настроек', link: 'settings' },
   { text: 'Разная информация по регионам', link: 'regions' },
