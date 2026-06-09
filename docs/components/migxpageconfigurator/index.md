@@ -8,6 +8,8 @@ modstore: https://modstore.pro/packages/utilities/migxpageconfigurator
 items: [
   { text: 'Начало работы', link: 'setup' },
   { text: 'Разметка вёрстки', link: 'markup' },
+  { text: 'Справочник атрибутов', link: 'attributes' },
+  { text: 'Нарезка', link: 'cutting' },
   { text: 'Работа с чанками', link: 'chunks' },
   { text: 'Работа со сниппетами', link: 'snippets' },
   { text: 'Работа с контактами', link: 'contacts' },
@@ -17,6 +19,7 @@ items: [
   { text: 'Копирование секций', link: 'copy-sections' },
   { text: 'Аудит правок и трекаемые поля', link: 'audit' },
   { text: 'Создание и обновление элементов', link: 'elements' },
+  { text: 'Справочник типов полей', link: 'field-types' },
   { text: 'Системные события', link: 'events' },
   { text: 'Консольные команды (CLI)', link: 'cli' },
   { text: 'Справочник системных настроек', link: 'settings' },
