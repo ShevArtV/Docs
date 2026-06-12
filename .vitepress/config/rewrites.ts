@@ -263,7 +263,6 @@ const rewrites: Record<string, string> = {
   'komponentyi/migxpageconfigurator/rabota-s-izobrazheniyami':         'components/migxpageconfigurator/images',
   'komponentyi/migxpageconfigurator/rabota-s-kontaktami':              'components/migxpageconfigurator/contacts',
   'komponentyi/migxpageconfigurator/rabota-so-snippetami':             'components/migxpageconfigurator/snippets',
-  'komponentyi/migxpageconfigurator/raznaya-informacziya-po-regionam': 'components/migxpageconfigurator/regions',
   'komponentyi/migxpageconfigurator/sozdanie-i-obnovlenie-elementov':  'components/migxpageconfigurator/elements',
 
   'komponentyi/minifyx':         'components/minifyx',

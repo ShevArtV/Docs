@@ -23,7 +23,6 @@ items: [
   { text: 'Системные события', link: 'events' },
   { text: 'Консольные команды (CLI)', link: 'cli' },
   { text: 'Справочник системных настроек', link: 'settings' },
-  { text: 'Разная информация по регионам', link: 'regions' },
 ]
 ---
 # MigxPageConfigurator
