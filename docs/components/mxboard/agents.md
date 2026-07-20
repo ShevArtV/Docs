@@ -79,6 +79,7 @@ bearer_token_env_var = "MXBOARD_TOKEN"
 | `department_register` | пометить группу MODX как отдел |
 | `type_create` | создать тип задачи с полями (нужно ≥1 поле) |
 | `project_create` | создать проект (колонки: ровно одна initial и одна final) |
+| `stage_create` / `stage_update` | создать или обновить стадию проекта, включая необязательное описание |
 
 ### Типичный поток агента
 
@@ -98,6 +99,8 @@ bearer_token_env_var = "MXBOARD_TOKEN"
 | GET | `/board?project=<key>&mine=1` | доска проекта (фильтры `column`, `author_id`, `assignee_id`) |
 | GET | `/departments` · `/departments/{id}/users` · `/departments/{id}/types` | отделы, их пользователи и типы |
 | GET | `/projects/{id}/columns` | стадии проекта |
+| POST | `/projects/{id}/columns` | создать стадию проекта |
+| PATCH | `/columns/{id}` | обновить стадию проекта |
 | GET | `/types/{key}/schema?project=<key>` | схема типа |
 | GET | `/tasks/{id\|num}` | карточка целиком |
 | POST | `/tasks` | создать задачу |
